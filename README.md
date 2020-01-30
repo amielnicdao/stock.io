@@ -28,19 +28,19 @@ A basic understanding of API's and AJAX calls.
 2. Once on the homepage, you will see the stock market summary, a company's stock information, and the top 5 business news.
 
   **Market Summary**
-
     ![Market Summary](assets/images/MarketSummary.PNG)
+
 
   **Company Summary**
 
   * Appears after entering the company's ticker
 
     ![Company Summary](assets/images/CompanySummary.PNG)
-    
+
 
   **Top Business News**
-
     ![Business News](assets/images/BizNews.PNG)
+
 
 4. On the navbar, you can click to see a hardcoded forum and an option to buy and sell which will take you to the major brokers page.
 
