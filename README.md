@@ -22,7 +22,7 @@ stock.io can be used to:
 
 A basic understanding of API's and AJAX calls.
 
-### How To Use myKeychain
+### How To Use stock.io
 
 1. Go to [stock.io's GitHub Page.](https://amielnicdao.github.io/stock-price/)
 2. Once on the homepage, you will see the stock market summary, a company's stock information, and the top 5 business news.
